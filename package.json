@@ -1,0 +1,28 @@
+{
+  "name": "twitter-bot",
+  "version": "1.0.0",
+  "description": "twitter bot bootstrap",
+  "main": "index.js",
+  "devDependencies": {
+    "standard": "*"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Rahul Lakhaney",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "twit": "^2.2.5",
+    "unique-random-array": "^1.0.0",
+    "unirest": "^0.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rahullakhaney/twitter-autopilot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/rahullakhaney/twitter-autopilot/issues"
+  },
+  "homepage": "https://github.com/rahullakhaney/twitter-autopilot#readme"
+}
